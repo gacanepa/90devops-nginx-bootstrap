@@ -39,7 +39,9 @@ Este script:
 ## 🌐 Paso 3: Abrí tu aplicación
 
 🔎 En la parte superior derecha del Cloud Shell hacé clic en el botón
-**"Vista previa del puerto 8080"** (ícono 🔳↗️).
+de previsualización (ícono <walkthrough-web-preview-icon>
+</walkthrough-web-preview-icon>) y luego en el menú
+**Vista previa del puerto 8080**.
 
 Tu sitio se abrirá en una nueva pestaña del navegador.
 
